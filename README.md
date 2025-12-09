@@ -1,106 +1,113 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9933&height=180&section=header&text=Namaskar%20Mandali!&fontSize=40&fontAlignY=35&desc=I%20am%20Akshay%20•%20Pune,%20Maharashtra&descSize=20&descAlignY=60&fontColor=ffffff"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=System.init('Hello+world');User%3A+Akshay+%E2%80%A2+Server%3A+Pune;Loading+Modules%3A+Mobile+%7C+Game+Dev" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-  <h3 style="color: #555;">
-     React Native • SwiftUI • Unity • Mobile & Game Developer
-  </h3>
+  <code>
+    <font color="#39FF14">root@akshay:~$</font> echo "React Native • SwiftUI • Unity"
+  </code>
+  <br/><br/>
   
   <p>
     <a href="https://github.com/Akshayykadam">
-      <img src="https://img.shields.io/badge/Pune,_Maharashtra-Desi_Dev-FF9933?style=flat-square&logo=google-maps&logoColor=white" />
+      <img src="https://img.shields.io/badge/Base-Pune_MH-000000?style=for-the-badge&logo=google-maps&logoColor=39FF14&labelColor=101010" />
     </a>
     <a href="mailto:akshayyakadam96@gmail.com">
-      <img src="https://img.shields.io/badge/Email-संपर्क_(Contact)-darkred?style=flat-square&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Comms-Email_Me-000000?style=for-the-badge&logo=gmail&logoColor=red&labelColor=101010" />
     </a>
-    <img src="https://img.shields.io/badge/Made_In-India_🇮🇳-138808?style=flat-square" />
+    <img src="https://img.shields.io/badge/Origin-India_🇮🇳-000000?style=for-the-badge&labelColor=101010" />
   </p>
 </div>
 
 <br/>
 
-> **"कमी पण उत्तम." (Less but better.)**
-> Coding from the cultural capital, **Pune**. I craft clean mobile apps and game prototypes. Like the Sahyadris, my code stands for stability and strength.
+> **`console.log("Komi pan uttam");` // Less but better.**
+> <br/>
+> Developing high-stability artifacts from the Pune sector. My code architecture mimics the Sahyadris: **robust** and **grounded**.
 
 <br/>
 
-<h3 align="center">🛠️ माझी शस्त्रे (My Shastra/Tools)</h3>
+<h3 align="center">🛠️ <samp>./Load_Arsenal (Tools)</samp></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,swift,unity,cs,vscode,firebase,figma,git&theme=light&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,ts,swift,unity,cs,vscode,firebase,figma,git&theme=dark&perline=9" />
 </p>
 
 <br/>
 
-<h3 align="center">📂 निवडक प्रकल्प (Selected Works)</h3>
+<h3 align="center">💾 <samp>./Deployed_Projects</samp></h3>
 
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <h3 style="color: #FF9933;">🐝 CastBee</h3>
-      <p><strong>Podcast Player</strong></p>
-      <p>Offline-capable podcast app with smooth background playback.</p>
+      <h3>🎧 <code>CastBee.ipa</code></h3>
+      <p><strong><samp>> Audio_Protocol</samp></strong></p>
+      <p>Offline-capable podcast interface with background playback threads.</p>
       <p>
-        <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react" />
-        <img src="https://img.shields.io/badge/Audio-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/REACT_NATIVE-20232A?style=plastic&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/AUDIO-v1.0-green?style=plastic" />
       </p>
-      <a href="https://github.com/Akshayykadam/CastBee-Where-Stories-Buzz"><strong>View Project ➔</strong></a>
+      <a href="https://github.com/Akshayykadam/CastBee-Where-Stories-Buzz"><strong>[ACCESS REPO]</strong></a>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3 style="color: #FF9933;">⛽ FuelMate</h3>
-      <p><strong>Vehicle Utility</strong></p>
-      <p>Track fuel consumption, mileage logs, and maintenance.</p>
+      <h3>⛽ <code>FuelMate.js</code></h3>
+      <p><strong><samp>> Telemetry_Log</samp></strong></p>
+      <p>Vehicle diagnostics tracker for consumption and maintenance cycles.</p>
       <p>
-        <img src="https://img.shields.io/badge/Expo-black?style=flat-square&logo=expo" />
-        <img src="https://img.shields.io/badge/Utility-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/EXPO-000020?style=plastic&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/UTILITY-v2.1-green?style=plastic" />
       </p>
-      <a href="https://github.com/Akshayykadam/FuelMate"><strong>View Project ➔</strong></a>
+      <a href="https://github.com/Akshayykadam/FuelMate"><strong>[ACCESS REPO]</strong></a>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3 style="color: #FF9933;">🎨 PixelNest</h3>
-      <p><strong>Art Discovery</strong></p>
-      <p>Browse and download wallpapers in a minimal interface.</p>
+      <h3>🎨 <code>PixelNest.ts</code></h3>
+      <p><strong><samp>> Visual_Core</samp></strong></p>
+      <p>Minimalist interface for fetching and rendering high-res digital assets.</p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript" />
-        <img src="https://img.shields.io/badge/Design-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=plastic&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/UI_UX-Experimental-green?style=plastic" />
       </p>
-      <a href="https://github.com/Akshayykadam/PixelNest"><strong>View Project ➔</strong></a>
+      <a href="https://github.com/Akshayykadam/PixelNest"><strong>[ACCESS REPO]</strong></a>
     </td>
   </tr>
   <tr>
     <td width="33%" align="center" valign="top">
-      <h3 style="color: #FF9933;">🏋️ Liftly</h3>
-      <p><strong>Workout Tracker</strong></p>
-      <p>Schedule-based fitness tracker with step counting.</p>
+      <h3>🏋️ <code>Liftly.apk</code></h3>
+      <p><strong><samp>> Bio_Monitor</samp></strong></p>
+      <p>Fitness algorithm featuring schedule logic and step-count integration.</p>
       <p>
-        <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react" />
-        <img src="https://img.shields.io/badge/Health-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/REACT_NATIVE-20232A?style=plastic&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/HEALTH-Active-green?style=plastic" />
       </p>
-      <a href="https://github.com/Akshayykadam/Liftly-The-Workout-Buddy"><strong>View Project ➔</strong></a>
+      <a href="https://github.com/Akshayykadam/Liftly-The-Workout-Buddy"><strong>[ACCESS REPO]</strong></a>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3 style="color: #FF9933;">⚔️ Sword Warrior</h3>
-      <p><strong>2D RPG</strong></p>
-      <p>Combat game exploring movement physics and melee mechanics.</p>
+      <h3>⚔️ <code>Warrior.cs</code></h3>
+      <p><strong><samp>> Combat_Sim</samp></strong></p>
+      <p>2D environment exploring rigid-body physics and melee hit-boxes.</p>
       <p>
-        <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity" />
-        <img src="https://img.shields.io/badge/Game_Dev-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/UNITY-000000?style=plastic&logo=unity&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHYSICS-Engine-green?style=plastic" />
       </p>
-      <a href="https://github.com/Akshayykadam/sword-warrior-RPG-2D"><strong>View Project ➔</strong></a>
+      <a href="https://github.com/Akshayykadam/sword-warrior-RPG-2D"><strong>[ACCESS REPO]</strong></a>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3 style="color: #FF9933;">🪙 CryptKing</h3>
-      <p><strong>Crypto Tracker</strong></p>
-      <p>Native iOS crypto dashboard tracking real-time market trends.</p>
+      <h3>🪙 <code>CryptKing.swift</code></h3>
+      <p><strong><samp>> Market_Ledger</samp></strong></p>
+      <p>Native iOS dashboard tracking decentralized currency nodes in real-time.</p>
       <p>
-        <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" />
-        <img src="https://img.shields.io/badge/iOS_Native-black?style=flat-square&logo=apple" />
+        <img src="https://img.shields.io/badge/SWIFTUI-F05138?style=plastic&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/FINTECH-Native-green?style=plastic" />
       </p>
-      <a href="https://github.com/Akshayykadam/CryptKing"><strong>View Project ➔</strong></a>
+      <a href="https://github.com/Akshayykadam/CryptKing"><strong>[ACCESS REPO]</strong></a>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9933&height=60&section=footer"/>
+  <br />
+  <samp>Status: Online | Latency: 24ms | Packet Loss: 0%</samp>
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=20&section=footer&stroke=39FF14&strokeWidth=2"/>
 </div>
