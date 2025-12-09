@@ -44,7 +44,7 @@
         <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react" />
         <img src="https://img.shields.io/badge/Audio-orange?style=flat-square" />
       </p>
-      <a href="LINK_TO_REPO"><strong>View Project ➔</strong></a>
+      <a href="https://github.com/Akshayykadam/CastBee-Where-Stories-Buzz"><strong>View Project ➔</strong></a>
     </td>
     <td width="33%" align="center" valign="top">
       <h3 style="color: #FF9933;">⛽ FuelMate</h3>
@@ -54,7 +54,7 @@
         <img src="https://img.shields.io/badge/Expo-black?style=flat-square&logo=expo" />
         <img src="https://img.shields.io/badge/Utility-orange?style=flat-square" />
       </p>
-      <a href="LINK_TO_REPO"><strong>View Project ➔</strong></a>
+      <a href="https://github.com/Akshayykadam/FuelMate"><strong>View Project ➔</strong></a>
     </td>
     <td width="33%" align="center" valign="top">
       <h3 style="color: #FF9933;">🎨 PixelNest</h3>
@@ -64,7 +64,7 @@
         <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript" />
         <img src="https://img.shields.io/badge/Design-orange?style=flat-square" />
       </p>
-      <a href="LINK_TO_REPO"><strong>View Project ➔</strong></a>
+      <a href="https://github.com/Akshayykadam/PixelNest"><strong>View Project ➔</strong></a>
     </td>
   </tr>
   <tr>
@@ -76,7 +76,7 @@
         <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react" />
         <img src="https://img.shields.io/badge/Health-orange?style=flat-square" />
       </p>
-      <a href="LINK_TO_REPO"><strong>View Project ➔</strong></a>
+      <a href="https://github.com/Akshayykadam/Liftly-The-Workout-Buddy"><strong>View Project ➔</strong></a>
     </td>
     <td width="33%" align="center" valign="top">
       <h3 style="color: #FF9933;">⚔️ Sword Warrior</h3>
