@@ -1,66 +1,83 @@
-🎮 Akshay Kadam
-Mobile Developer • Game Developer • React Native + Unity + Expo
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3N0bmx1dmk4ZmdsNHZ5Y21lZG5xcWxub2xpcGhjaG5iY2p1d291NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YRVP7mapl24G6RNabK/giphy.gif" width="150" /> </p>
+<!-- Retro Header -->
+<h1 align="center">
+  <img src="https://i.imgur.com/3M0K7W1.png" width="32" />
+  <br/>
+  <b>Akshay Kadam</b>
+</h1>
 
-Crafting clean, modern mobile apps and building playful game worlds. Mixing good engineering with aesthetic UI, animations, and tiny delightful details.
+<p align="center">
+  <img src="https://i.imgur.com/A5bG7i7.gif" width="180"/>
+</p>
 
-🚀 What I Build
+<p align="center">
+  <strong>Mobile Developer • Game Developer • React Native + Unity</strong><br/>
+  <span style="font-size:12px;">Crafting apps & worlds, one pixel at a time.</span>
+</p>
 
-• React Native Apps (Expo + TypeScript + clean architecture)
-• Unity Games (C# + fun mechanics + shaders)
-• Fitness & Wellness Tools (Workout tracking, Health Connect integrations)
-• Pixel-style and game-inspired UI
+---
 
-🔥 Featured Projects
-🐝 CastBee — A Premium Podcast Player
+## 🕹️ What I Build
+▌ React Native Apps (Expo + TypeScript)
+▌ Unity Game Prototypes (C#)
+▌ Fitness & Wellness Tools (Health Connect, workout tracking)
+▌ Pixel-style UI, animations, and micro-interactions
 
-Smooth UI, offline mode, background audio, powerful playback controls.
+---
 
-🏋️ Liftly — Your Workout Buddy
+## ⭐ Featured Projects
 
-Smart schedules, step tracking, daily progress, clean TS codebase.
+### 🐝 CastBee — Premium Podcast Player  
+Smooth UI, offline support, background audio.
 
-⛽ FuelMate
+### 🏋️ Liftly — Workout Buddy  
+Steps, schedules, progress tracking, clean TS architecture.
 
-Mileage tracking, expense logs, smart insights.
+### ⛽ FuelMate  
+Mileage + expense tracking with a retro-clean look.
 
-🎨 PixelNest
+### 🎨 PixelNest  
+Wallpaper browser inspired by pixel palettes.
 
-High-quality wallpapers + immersive browsing experience.
+---
 
-🧰 Tech Toolbox
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,ts,js,expo,git,firebase,nodejs,graphql,unity,figma" /> </p>
+## 🧰 Pixel Toolbox
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,expo,git,firebase,nodejs,graphql,unity,figma" height="42"/>
+</p>
 
-Mobile: React Native, Expo
-Game Dev: Unity, C#
-Backend: Firebase, Node.js, GraphQL
-Design: Pixel art, UI motion, Figma
-Platforms: Android, iOS
+React Native • Expo • TypeScript
+Unity • C#
+Firebase • GraphQL • Node.js
+Figma • Pixel Art • UI Motion
+Android • iOS
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AkshayyKadam&show_icons=true&theme=tokyonight&hide_title=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayyKadam&layout=compact&theme=tokyonight" height="150" /> </p>
-🌱 Currently Exploring
+---
 
-Motion design + subtle animations
+## 📟 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshayyKadam&show_icons=true&theme=gruvbox&border_color=000000&icon_color=fabd2f&bg_color=1d2021" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayyKadam&layout=compact&theme=gruvbox&bg_color=1d2021&border_color=000000" height="150"/>
+</p>
 
-Better game feel (juice, feedback, micro-movements)
+---
 
-Scalable mobile architecture
-
+## 💾 Currently Exploring
+Motion design & subtle animations
+Game-feel “juice” & responsive feedback
+Scalable RN architecture
 Health Connect integrations
 
-📫 Connect
+---
 
+## 📡 Contact
 Email: akshayyakadam96@gmail.com
 
 Location: Pune, India
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=80&section=footer" /> </p>
-Why this version looks way less boring:
+<p align="center">
+  <img src="https://i.imgur.com/6Iv4JQq.png" width="300"/>
+</p>
 
-• Centered visuals — adds balance
-• Skill icons — instant visual impact
-• Stats cards — dynamic content
-• Section headers with spacing — easier scanning
-• Pixel-art vibe — matches your avatar
-• A bit of motion — makes the profile feel alive
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
