@@ -23,7 +23,7 @@
 
 <br/>
 
-> **`console.log("Komi pan uttam");` // Less but better.**
+> **`console.log("Less but better");`.**
 > <br/>
 > Developing high-stability artifacts from the Pune sector. My code architecture mimics the Sahyadris: **robust** and **grounded**.
 
