@@ -1,78 +1,106 @@
-<h1 align="center">🎮 Akshay Kadam</h1>
-<h3 align="center">Mobile Developer • Game Developer • React Native + Unity</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9933&height=180&section=header&text=Namaskar%20Mandali!&fontSize=40&fontAlignY=35&desc=I%20am%20Akshay%20•%20Pune,%20Maharashtra&descSize=20&descAlignY=60&fontColor=ffffff"/>
+</div>
 
+<div align="center">
+  <h3 style="color: #555;">
+     React Native • SwiftUI • Unity • Mobile & Game Developer
+  </h3>
+  
+  <p>
+    <a href="https://github.com/Akshayykadam">
+      <img src="https://img.shields.io/badge/Pune,_Maharashtra-Desi_Dev-FF9933?style=flat-square&logo=google-maps&logoColor=white" />
+    </a>
+    <a href="mailto:akshayyakadam96@gmail.com">
+      <img src="https://img.shields.io/badge/Email-संपर्क_(Contact)-darkred?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+    <img src="https://img.shields.io/badge/Made_In-India_🇮🇳-138808?style=flat-square" />
+  </p>
+</div>
+
+<br/>
+
+> **"कमी पण उत्तम." (Less but better.)**
+> Coding from the cultural capital, **Pune**. I craft clean mobile apps and game prototypes. Like the Sahyadris, my code stands for stability and strength.
+
+<br/>
+
+<h3 align="center">🛠️ माझी शस्त्रे (My Shastra/Tools)</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/robo-monk/pixel-gifs/main/pixel-cat-desk.gif" width="180" />
+  <img src="https://skillicons.dev/icons?i=react,ts,swift,unity,cs,vscode,firebase,figma,git&theme=light&perline=9" />
 </p>
 
-<p align="center">
-  Crafting apps & worlds, one pixel at a time.
-</p>
+<br/>
 
----
+<h3 align="center">📂 निवडक प्रकल्प (Selected Works)</h3>
 
-## 🕹️ What I Build
-▌ React Native Apps (Expo + TypeScript)
-▌ Unity Game Prototypes (C#)
-▌ Fitness & Wellness Tools (Health Connect)
-▌ Pixel-style UI & micro-interactions
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3 style="color: #FF9933;">🐝 CastBee</h3>
+      <p><strong>Podcast Player</strong></p>
+      <p>Offline-capable podcast app with smooth background playback.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Audio-orange?style=flat-square" />
+      </p>
+      <a href="LINK_TO_REPO"><strong>View Project ➔</strong></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3 style="color: #FF9933;">⛽ FuelMate</h3>
+      <p><strong>Vehicle Utility</strong></p>
+      <p>Track fuel consumption, mileage logs, and maintenance.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Expo-black?style=flat-square&logo=expo" />
+        <img src="https://img.shields.io/badge/Utility-orange?style=flat-square" />
+      </p>
+      <a href="LINK_TO_REPO"><strong>View Project ➔</strong></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3 style="color: #FF9933;">🎨 PixelNest</h3>
+      <p><strong>Art Discovery</strong></p>
+      <p>Browse and download wallpapers in a minimal interface.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript" />
+        <img src="https://img.shields.io/badge/Design-orange?style=flat-square" />
+      </p>
+      <a href="LINK_TO_REPO"><strong>View Project ➔</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3 style="color: #FF9933;">🏋️ Liftly</h3>
+      <p><strong>Workout Tracker</strong></p>
+      <p>Schedule-based fitness tracker with step counting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Health-orange?style=flat-square" />
+      </p>
+      <a href="LINK_TO_REPO"><strong>View Project ➔</strong></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3 style="color: #FF9933;">⚔️ Sword Warrior</h3>
+      <p><strong>2D RPG</strong></p>
+      <p>Combat game exploring movement physics and melee mechanics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity" />
+        <img src="https://img.shields.io/badge/Game_Dev-orange?style=flat-square" />
+      </p>
+      <a href="https://github.com/Akshayykadam/sword-warrior-RPG-2D"><strong>View Project ➔</strong></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3 style="color: #FF9933;">🪙 CryptKing</h3>
+      <p><strong>Crypto Tracker</strong></p>
+      <p>Native iOS crypto dashboard tracking real-time market trends.</p>
+      <p>
+        <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/iOS_Native-black?style=flat-square&logo=apple" />
+      </p>
+      <a href="https://github.com/Akshayykadam/CryptKing"><strong>View Project ➔</strong></a>
+    </td>
+  </tr>
+</table>
 
----
-
-## ⭐ Featured Projects
-
-### 🐝 CastBee — Premium Podcast Player  
-Smooth UI, offline mode, background audio.
-
-### 🏋️ Liftly — Workout Buddy  
-Steps, schedules, progress, clean TS architecture.
-
-### ⛽ FuelMate  
-Mileage + expense tracking with a modern look.
-
-### 🎨 PixelNest  
-Wallpaper browser inspired by retro palettes.
-
----
-
-## 🧰 Tech Toolbox
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,expo,git,firebase,nodejs,graphql,unity,figma" height="42" />
-</p>
-
-React Native • Expo • TypeScript
-Unity • C#
-Firebase • GraphQL • Node.js
-Pixel Art • Figma • Motion Design
-
----
-
-## 📟 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshayyKadam&show_icons=true&theme=gruvbox&hide_title=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayyKadam&layout=compact&theme=gruvbox" height="150"/>
-</p>
-
----
-
-## 💾 Currently Exploring
-Motion design & micro-animations
-Game-feel “juice” & tactile feedback
-Scalable React Native architecture
-Health Connect integrations
-
----
-
-## 📡 Contact
-Email: akshayyakadam96@gmail.com
-Location: Pune, India
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/robo-monk/pixel-gifs/main/pixel-divider.gif" width="250" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9933&height=60&section=footer"/>
+</div>
