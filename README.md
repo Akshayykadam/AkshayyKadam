@@ -41,7 +41,7 @@
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <h3>🎧 <code>CastBee.apk</code></h3>
+      <h3>🎧 <code>Wavefy.kt</code></h3>
       <p><strong><samp>> Audio_Protocol</samp></strong></p>
       <p>Offline-capable podcast interface with background playback threads.</p>
       <p>
