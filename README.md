@@ -25,7 +25,7 @@
 
 > **`console.log("Less but better");`.**
 > <br/>
-> Developing high-stability artifacts from the Pune sector. My code architecture mimics the Sahyadris: **robust** and **grounded**.
+> Developing high-stability artifacts from the Pune sector.
 
 <br/>
 
