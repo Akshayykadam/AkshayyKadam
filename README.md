@@ -161,8 +161,6 @@ const akshay = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshayykadam&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" width="38%" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshayykadam&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="95%" />
 
 </div>
