@@ -192,7 +192,7 @@ const akshay = {
 
 💬 Open to collaborations on **Game Development**, **Mobile Apps**, and **AI Projects**
 
-📫 Reach me through my **[Portfolio](https://akshayykadam.github.io/)** or connect on **[LinkedIn](https://linkedin.com/in/akshayykadam)**
+📫 Reach me through my **[Portfolio](https://akshayykadam.github.io/)** or connect on **[LinkedIn](https://linkedin.com/in/akshaykadam96)**
 
 </div>
 
