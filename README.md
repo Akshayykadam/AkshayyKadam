@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Building+immersive+experiences;Unity+%7C+React+Native+%7C+Kotlin;AI-powered+applications;Always+learning%2C+always+creating" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-akshayykadam.github.io-6366f1?style=for-the-badge&logo=safari&logoColor=white)](https://akshayykadam.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshayykadam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaykadam96)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshayykadam)
 
 </div>
