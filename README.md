@@ -143,16 +143,7 @@ Real-time AQI & weather with AI-powered health insights and stunning UI animatio
 
 ## ⬡ GitHub Stats
 
-<div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Akshayykadam&show_icons=true&bg_color=05060a&border_color=1a2a1a&title_color=39d353&text_color=4a5568&icon_color=39d353&count_private=true&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshayykadam&layout=compact&bg_color=05060a&border_color=1a2a1a&title_color=39d353&text_color=4a5568&hide_border=false&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Akshayykadam&background=05060a&border=1a2a1a&stroke=1a2a1a&ring=39d353&fire=39d353&currStreakNum=ffffff&sideNums=4a5568&currStreakLabel=39d353&sideLabels=4a5568&dates=2d3748" />
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshayykadam&bg_color=05060a&color=39d353&line=1a2a1a&point=39d353&area=true&area_color=39d353&border_color=1a2a1a" width="98%"/>
 
