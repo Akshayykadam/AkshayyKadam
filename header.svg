@@ -1,0 +1,171 @@
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Syne:wght@800&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap');
+
+      .bg { fill: #05060a; }
+      .grid-line { stroke: rgba(57,211,83,0.07); stroke-width: 0.5; }
+      .name { font-family: 'Syne', 'Arial Black', sans-serif; font-weight: 800; font-size: 62px; fill: #ffffff; letter-spacing: -2px; }
+      .name-accent { fill: #39d353; }
+      .role { font-family: 'JetBrains Mono', monospace; font-size: 14px; fill: #4a5568; letter-spacing: 2px; }
+      .tag { font-family: 'JetBrains Mono', monospace; font-size: 10px; fill: #39d353; letter-spacing: 1.5px; }
+      .tag-bg { fill: rgba(57,211,83,0.08); rx: 4; }
+      .cursor { fill: #39d353; }
+      .dot { fill: #39d353; }
+      .scan { fill: none; stroke: rgba(57,211,83,0.15); stroke-width: 1; }
+
+      .grid-dot { fill: rgba(57,211,83,0.25); }
+
+      .fade-in { animation: fadeIn 1.2s ease forwards; opacity: 0; }
+      .fade-in-1 { animation: fadeIn 1.2s ease 0.1s forwards; opacity: 0; }
+      .fade-in-2 { animation: fadeIn 1.2s ease 0.3s forwards; opacity: 0; }
+      .fade-in-3 { animation: fadeIn 1.2s ease 0.5s forwards; opacity: 0; }
+      .fade-in-4 { animation: fadeIn 1.2s ease 0.7s forwards; opacity: 0; }
+
+      .cursor-blink { animation: blink 1s steps(1) infinite; }
+      .scan-move { animation: scanMove 6s linear infinite; }
+      .pulse { animation: pulse 2s ease-in-out infinite; }
+      .glow-1 { animation: glowDot 3s ease-in-out infinite; }
+      .glow-2 { animation: glowDot 3s ease-in-out 1s infinite; }
+      .glow-3 { animation: glowDot 3s ease-in-out 2s infinite; }
+
+      @keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+      @keyframes scanMove { 0% { transform: translateY(-280px); } 100% { transform: translateY(280px); } }
+      @keyframes pulse { 0%, 100% { opacity: 0.2; } 50% { opacity: 0.6; } }
+      @keyframes glowDot { 0%, 100% { opacity: 0.1; r: 1.5; } 50% { opacity: 0.8; r: 2.5; } }
+    </style>
+
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-strong">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="280" class="bg" rx="10"/>
+
+  <!-- Grid lines vertical -->
+  <line x1="60" y1="0" x2="60" y2="280" class="grid-line"/>
+  <line x1="120" y1="0" x2="120" y2="280" class="grid-line"/>
+  <line x1="180" y1="0" x2="180" y2="280" class="grid-line"/>
+  <line x1="240" y1="0" x2="240" y2="280" class="grid-line"/>
+  <line x1="300" y1="0" x2="300" y2="280" class="grid-line"/>
+  <line x1="360" y1="0" x2="360" y2="280" class="grid-line"/>
+  <line x1="420" y1="0" x2="420" y2="280" class="grid-line"/>
+  <line x1="480" y1="0" x2="480" y2="280" class="grid-line"/>
+  <line x1="540" y1="0" x2="540" y2="280" class="grid-line"/>
+  <line x1="600" y1="0" x2="600" y2="280" class="grid-line"/>
+  <line x1="660" y1="0" x2="660" y2="280" class="grid-line"/>
+  <line x1="720" y1="0" x2="720" y2="280" class="grid-line"/>
+  <line x1="780" y1="0" x2="780" y2="280" class="grid-line"/>
+  <line x1="840" y1="0" x2="840" y2="280" class="grid-line"/>
+
+  <!-- Grid lines horizontal -->
+  <line x1="0" y1="60" x2="900" y2="60" class="grid-line"/>
+  <line x1="0" y1="120" x2="900" y2="120" class="grid-line"/>
+  <line x1="0" y1="180" x2="900" y2="180" class="grid-line"/>
+  <line x1="0" y1="240" x2="900" y2="240" class="grid-line"/>
+
+  <!-- Animated grid dots -->
+  <circle cx="60" cy="60" r="1.5" class="dot glow-1"/>
+  <circle cx="180" cy="60" r="1.5" class="dot glow-2"/>
+  <circle cx="300" cy="120" r="1.5" class="dot glow-3"/>
+  <circle cx="480" cy="60" r="1.5" class="dot glow-1"/>
+  <circle cx="660" cy="120" r="1.5" class="dot glow-2"/>
+  <circle cx="780" cy="60" r="1.5" class="dot glow-3"/>
+  <circle cx="840" cy="180" r="1.5" class="dot glow-1"/>
+  <circle cx="120" cy="180" r="1.5" class="dot glow-2"/>
+  <circle cx="600" cy="240" r="1.5" class="dot glow-3"/>
+  <circle cx="720" cy="240" r="1.5" class="dot glow-1"/>
+
+  <!-- Scan line moving -->
+  <g class="scan-move" style="opacity:0.4">
+    <line x1="0" y1="0" x2="900" y2="0" class="scan"/>
+  </g>
+
+  <!-- Green corner accent top-left -->
+  <line x1="0" y1="0" x2="40" y2="0" stroke="#39d353" stroke-width="2" rx="1" class="fade-in" filter="url(#glow)"/>
+  <line x1="0" y1="0" x2="0" y2="40" stroke="#39d353" stroke-width="2" class="fade-in" filter="url(#glow)"/>
+
+  <!-- Green corner accent bottom-right -->
+  <line x1="860" y1="280" x2="900" y2="280" stroke="#39d353" stroke-width="2" class="fade-in" filter="url(#glow)"/>
+  <line x1="900" y1="240" x2="900" y2="280" stroke="#39d353" stroke-width="2" class="fade-in" filter="url(#glow)"/>
+
+  <!-- Status dot + label -->
+  <g class="fade-in-1">
+    <circle cx="50" cy="40" r="4" fill="#39d353" class="pulse" filter="url(#glow)"/>
+    <circle cx="50" cy="40" r="4" fill="#39d353" opacity="0.3">
+      <animate attributeName="r" values="4;10;4" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;0;0.3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="62" y="45" font-family="'JetBrains Mono', monospace" font-size="10" fill="#39d353" letter-spacing="1.5">AVAILABLE FOR COLLAB</text>
+  </g>
+
+  <!-- Name -->
+  <g class="fade-in-2">
+    <text x="50" y="138" class="name">AKSHAY <tspan class="name-accent">KADAM</tspan></text>
+  </g>
+
+  <!-- Role line -->
+  <g class="fade-in-3">
+    <text x="52" y="166" class="role">GAME DEV · MOBILE · AI INTEGRATION</text>
+    <!-- Cursor -->
+    <rect x="394" y="152" width="8" height="14" class="cursor cursor-blink" rx="1"/>
+  </g>
+
+  <!-- Divider line -->
+  <g class="fade-in-4">
+    <line x1="50" y1="186" x2="500" y2="186" stroke="rgba(255,255,255,0.07)" stroke-width="0.5"/>
+  </g>
+
+  <!-- Tags row -->
+  <g class="fade-in-4">
+    <!-- Tag 1 -->
+    <rect x="50" y="198" width="64" height="22" fill="rgba(57,211,83,0.07)" rx="3" stroke="rgba(57,211,83,0.2)" stroke-width="0.5"/>
+    <text x="58" y="213" class="tag">Unity</text>
+
+    <!-- Tag 2 -->
+    <rect x="122" y="198" width="54" height="22" fill="rgba(57,211,83,0.07)" rx="3" stroke="rgba(57,211,83,0.2)" stroke-width="0.5"/>
+    <text x="130" y="213" class="tag">Kotlin</text>
+
+    <!-- Tag 3 -->
+    <rect x="184" y="198" width="102" height="22" fill="rgba(57,211,83,0.07)" rx="3" stroke="rgba(57,211,83,0.2)" stroke-width="0.5"/>
+    <text x="192" y="213" class="tag">React Native</text>
+
+    <!-- Tag 4 -->
+    <rect x="294" y="198" width="78" height="22" fill="rgba(57,211,83,0.07)" rx="3" stroke="rgba(57,211,83,0.2)" stroke-width="0.5"/>
+    <text x="302" y="213" class="tag">Next.js</text>
+
+    <!-- Tag 5 -->
+    <rect x="380" y="198" width="86" height="22" fill="rgba(57,211,83,0.07)" rx="3" stroke="rgba(57,211,83,0.2)" stroke-width="0.5"/>
+    <text x="388" y="213" class="tag">Gemini AI</text>
+
+    <!-- Tag 6 -->
+    <rect x="474" y="198" width="74" height="22" fill="rgba(57,211,83,0.07)" rx="3" stroke="rgba(57,211,83,0.2)" stroke-width="0.5"/>
+    <text x="482" y="213" class="tag">MediaPipe</text>
+  </g>
+
+  <!-- Location -->
+  <g class="fade-in-4">
+    <text x="52" y="252" font-family="'JetBrains Mono', monospace" font-size="10" fill="#2d3748" letter-spacing="1">~/pune/india</text>
+  </g>
+
+  <!-- Right side — big accent number -->
+  <g class="fade-in-2" opacity="0.04">
+    <text x="620" y="190" font-family="'Arial Black', sans-serif" font-weight="900" font-size="160" fill="#39d353" letter-spacing="-8">AK</text>
+  </g>
+
+  <!-- Right corner decoration -->
+  <g class="fade-in-3">
+    <line x1="820" y1="40" x2="870" y2="40" stroke="rgba(57,211,83,0.2)" stroke-width="0.5"/>
+    <line x1="840" y1="30" x2="840" y2="55" stroke="rgba(57,211,83,0.2)" stroke-width="0.5"/>
+    <circle cx="840" cy="40" r="3" fill="none" stroke="#39d353" stroke-width="1" opacity="0.4"/>
+    <circle cx="840" cy="40" r="1.5" fill="#39d353" opacity="0.6"/>
+  </g>
+</svg>
