@@ -141,16 +141,6 @@ Real-time AQI & weather with AI-powered health insights and stunning UI animatio
 
 ---
 
-## ⬡ GitHub Stats
-
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshayykadam&bg_color=05060a&color=39d353&line=1a2a1a&point=39d353&area=true&area_color=39d353&border_color=1a2a1a" width="98%"/>
-
-</div>
-
----
-
 ## ⬡ Tech Stack
 
 <div align="center">
