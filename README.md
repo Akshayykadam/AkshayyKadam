@@ -18,36 +18,50 @@ Pune, India
 
 <br/>
 
-## Unity · C#
+### Unity · C#
 
 **[OpenCity3D Engine](https://github.com/Akshayykadam/OpenCity3D-Engine)**
 Generate real-world 3D cities directly in Unity from OpenStreetMap data — one click, no external tools.
 
 **[Real-Time Pose & Hand Tracking](https://github.com/Akshayykadam/Real-Time-Pose-Hand-Tracking)**
-High-performance Unity framework for real-time human pose and hand landmark detection using MediaPipe, optimized for mobile.
-
-**[Fruit Ninja Using Hand Tracking](https://github.com/Akshayykadam/Fruit-Ninja-Using-Hand-Tracking)**
-A hand-tracking powered Fruit Ninja experience using MediaPipe and Unity — slice objects using real-time hand movements.
+Real-time body and hand tracking in Unity using MediaPipe, with performance-focused processing and mobile optimization.
 
 **[UnityLink Chat](https://github.com/Akshayykadam/UnityLink-Chat)**
-Cross-platform Unity chat plugin with 1-to-1 messaging, groups, media, reactions, and end-to-end encryption.
+Production-ready cross-platform chat system for Unity with messaging, groups, media sharing, reactions, Firebase integration, and E2E encryption.
 
-**[Advanced Notification Engine for Unity](https://github.com/Akshayykadam/Advanced-Notification-Engine-for-Unity)**
-Production-ready notification system for Unity with local and push notifications, deep linking, quiet hours, inbox history, and in-app overlays.
+**[Advanced Notification Engine](https://github.com/Akshayykadam/Advanced-Notification-Engine-for-Unity)**
+Cross-platform Unity notification infrastructure supporting local and push notifications, scheduling, deep linking, quiet hours, inbox history, and in-app overlays.
+
+**[CrossHealth](https://github.com/Akshayykadam/CrossHealth)**
+Unified C# health and fitness API for Unity supporting Apple HealthKit and Android Health Connect without requiring platform-specific code.
+
+**[WebView Bridge Pro](https://github.com/Akshayykadam/WebView-Bridge-Pro)**
+Native-performance WebView integration for Unity with Android and iOS support.
+
+**[Native Picker Pro](https://github.com/Akshayykadam/Native-Picker-Pro)**
+Native Android and iOS date, time, and selection picker integration for Unity applications.
 
 **[Arabic RTL Text Engine](https://github.com/Akshayykadam/Arabic-RTL-Text-Engine)**
-Unity package providing Arabic RTL and English LTR text support for multilingual Unity applications.
+Unity package providing Arabic RTL and English LTR text support with proper glyph shaping for multilingual applications.
+
+**[Devanagari Text Engine](https://github.com/Akshayykadam/Devanagari-Text-Engine)**
+Unicode-aware Hindi, Marathi, and Kruti Dev text rendering system for Unity.
+
+**[Sword Warrior RPG 2D](https://github.com/Akshayykadam/sword-warrior-RPG-2D)**
+2D action RPG built with Unity and C#, featuring player movement, combat, enemies, and platforming mechanics.
 
 <br/>
 
-## What I Build
+### What I Build
 
-* 🎮 Unity interactive experiences
+* 🎮 Unity games and interactive experiences
 * 🧩 Reusable Unity packages and developer tools
-* 📱 Cross-platform mobile applications with Unity
-* 🤖 AI-powered applications and tools
-* 🗺️ Geospatial and real-world 3D experiences
-* 👋 Computer vision and real-time tracking
+* 📱 Cross-platform mobile development
+* 🤖 AI and computer vision
+* 🗺️ Geospatial and real-world 3D applications
+* 👋 Real-time pose and hand tracking
+* ⚙️ Performance-focused C# systems
+* 🔌 Native Android & iOS integrations
 
 <br/>
 
